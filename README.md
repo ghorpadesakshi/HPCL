@@ -7,4 +7,23 @@ Real-time Twitter Sentiment Dashboard using Kafka, Zookeeper, NLP, and Streamlit
 1. Build & run:
    ```bash
    docker-compose up --build
+   Check running containers:
    ```
+
+docker ps
+
+Start the Twitter producer (streams tweets into Kafka):
+
+python twitter_kafka_producer.py
+
+Start the parallel Kafka consumer (processes tweets in real time):
+
+python kafka_parallel_consumer.py
+
+Launch the Streamlit dashboard (view real-time sentiment analysis):
+
+python -m streamlit run dashboard.py
+
+```
+
+```
