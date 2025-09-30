@@ -1,0 +1,29 @@
+Message:  | Sentiment: Neutral
+Message:  | Sentiment: Neutral
+Message: i love coding | Sentiment: Positive
+Message: this is hard | Sentiment: Negative
+Message: I love coding | Sentiment: Positive
+Message: This project is really hard | Sentiment: Negative
+Message: Today is a great day | Sentiment: Positive
+Message: I hate bugs in my code | Sentiment: Negative
+Message: Machine learning is awesome | Sentiment: Positive
+Message: This is neutral | Sentiment: Neutral
+Message: i am so happy | Sentiment: Positive
+Message: i am saad | Sentiment: Neutral
+Message: i hate crime | Sentiment: Negative
+Message: I love coding | Sentiment: Positive
+Message: This project is really hard | Sentiment: Negative
+Message: Today is a great day | Sentiment: Positive
+Message: I hate bugs in my code | Sentiment: Negative
+Message: Machine learning is awesome | Sentiment: Positive
+Message: This is neutral | Sentiment: Neutral
+Message: {"tweet": "@TimeBonoro_ @jairmearrependi @BolsonaroSP Sim ai vai ter o encontro e vcs v\u00e3o continuar nessa"} | Sentiment: Neutral
+Message: {"tweet": "RT @Lx9203328: \u26a1 Alert \u26a1: 5y7n2C6JgZHQmboR5SK3DcksHDhbgP1veQ3YWBF1pump\n\u2503\ud83e\uddeb\u2503\ud835\ude4f\ud835\ude64\ud835\ude60\ud835\ude5a\ud835\ude63 \u22ee $JunoNode\n\ud83d\udcab AI Abstract \uff1aJuno: AI-themed coin, myth-tech\u2026"} | Sentiment: Neutral
+Message: {"tweet": "RT @Iam_cornucopia: When I have $1,000,000,000 -  you probably won\u2019t know but you will definitely see the signs.\n\nUntil then, we keep preac\u2026"} | Sentiment: Neutral
+Message: {"tweet": "@pedrorousseff Rapaizzzz, que turma de in\u00fateis!!!!! O q essa mulher est\u00e1 fazendo a\u00ed????? Realmente estamos pessimamente representados."} | Sentiment: Neutral
+Message: {"tweet": "Excited to see what Macrohard will bring to the AI world! \ud83d\ude80 #Innovation https://t.co/L7feajbjqZ https://t.co/K1AxBTF2T0"} | Sentiment: Positive
+Message: {"tweet": "RT @ouiouib4guette: mon mec qui dit \"j'ai r\u00e9ussi ma vie\" en regardant mon cul #bblnaturelle"} | Sentiment: Neutral
+Message: {"tweet": "@Web3_sonu @Everlyn_ai When it will listed on kaito"} | Sentiment: Neutral
+Message: {"tweet": "RT @Nice_Stock_: AI\uc778\ud504\ub77c \uc774\uc81c \uc2dc\uc791\uc785\ub2c8\ub2e4.\ud83d\udd25\ud83d\ude80 https://t.co/jPtDga7MFv"} | Sentiment: Neutral
+Message: {"tweet": "RT @awobotuDamilola: \ud83c\udf10 Step into decentralized AI with Space Acres from @AutonomysNet.\nZero tokens required\u2014install the client, set up your\u2026"} | Sentiment: Neutral
+Message: {"tweet": "RT @migueljmrgd: a\u00ed n\u00e9 galera \u00e9 isso, volta e meia abandonam um gatinho l\u00e1 onde minha m\u00e3e trabalha e ela pede pra eu fazer lar tempor\u00e1rio a\u2026"} | Sentiment: Neutral
